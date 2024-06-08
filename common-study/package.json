@@ -1,0 +1,11 @@
+{
+  "name": "common-study",
+  "version": "1.0.0",
+  "description": "강좌 - [코딩앙마](https://www.youtube.com/watch?v=5oGAkQsGWkc&list=PLZKTXPmaJk8KhKQ_BILr1JKCJbR0EGlx0)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
